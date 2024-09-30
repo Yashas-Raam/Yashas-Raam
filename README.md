@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Yashas Raam 👋
 
-<!--
-**Yashas-Raam/Yashas-Raam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate Electronics student at Government Engineering College, Hassan. I have a passion for technology and a keen interest in electronics and programming.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Embedded Systems
+- Microcontrollers
+- Circuit Design
+- IOT
+- Cyber Security
+- VLSI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: [yashas.ramachandra@gmail.com](yashas.ramachandra@gmail.com)
+- LinkedIn:[https://www.linkedin.com/in/yashas-r-396b35255/]
+
+
