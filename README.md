@@ -11,7 +11,7 @@ I'm an undergraduate Electronics student at Government Engineering College, Hass
 - VLSI
 
 ## 📫 How to reach me
-- Email: [yashas.ramachandra@gmail.com](yashas.ramachandra@gmail.com)
-- LinkedIn:[https://www.linkedin.com/in/yashas-r-396b35255/]
+- Email: [My Email](yashas.ramachandra@gmail.com)
+- LinkedIn:[My Linkedin](https://www.linkedin.com/in/yashas-r-396b35255/)
 
 
