@@ -2,7 +2,6 @@
 <h3 align="left">A UG student under Electronics and Communication Engineering</h3>
 <br>
 
-- 🌱 I’m currently learning **VLSI, Cyber Security**
 
 - ⚡ Fun fact **I like innovation**
   <br>
